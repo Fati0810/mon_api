@@ -9,6 +9,7 @@ Cette API permet de récupérer la liste des utilisateurs depuis une base de don
 - Récupération des données utilisateur (prénom, nom, email, etc.)
 - Affichage en tableau HTML
 - Endpoint API REST au format JSON
+- Sécurisation des identifiants avec un fichier `.env`
 + Structure MVC simple : séparation logique / vue / données
 
 ---
