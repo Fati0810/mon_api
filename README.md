@@ -23,14 +23,8 @@ git clone https://github.com/Fati0810/mon_api
 cd mon_api
 
 2. **Installer composer :**
-```bash
 composer install
 
 2. **Installer des dépendances composer :**
-```bash
 composer require vlucas/phpdotenv
-
----
-
-```bash
 composer require firebase/php-jwt
