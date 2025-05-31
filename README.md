@@ -22,9 +22,10 @@ Cette API permet de récupérer la liste des utilisateurs depuis une base de don
 git clone https://github.com/Fati0810/mon_api
 cd mon_api
 
-2. **Installer composer :**
+// mettr een forme
+installer composer
 composer install
 
-2. **Installer des dépendances composer :**
+installer les dépendances 
 composer require vlucas/phpdotenv
 composer require firebase/php-jwt
