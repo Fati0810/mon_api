@@ -21,3 +21,9 @@ Cette API permet de récupérer la liste des utilisateurs depuis une base de don
 ```bash
 git clone https://github.com/Fati0810/mon_api
 cd mon_api
+
+```bash
+composer require vlucas/phpdotenv
+
+```bash
+composer require firebase/php-jwt
