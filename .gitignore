@@ -1,0 +1,32 @@
+# Ignorer les dépendances PHP (dossier vendor)
+vendor/
+
+# Ignorer les fichiers de logs
+*.log
+debug_login_post.log
+debug_post.log
+error_login.log
+error_pdo.log
+
+# Ignorer les fichiers d'environnement (contiennent souvent des clés secrètes)
+.env
+
+# Ignorer les fichiers système macOS
+.DS_Store
+
+# Ignorer les images (logos, photos, etc.)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+
+# Ignorer les fichiers temporaires
+*.tmp
+*.swp
+*.bak
+
+# Ignorer les fichiers de cache PHP (par exemple Symfony, Laravel, etc.)
+cache/
+tmp/
