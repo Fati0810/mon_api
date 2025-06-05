@@ -26,7 +26,11 @@ error_pdo.log
 *.tmp
 *.swp
 *.bak
+*.txt
 
 # Ignorer les fichiers de cache PHP (par exemple Symfony, Laravel, etc.)
 cache/
 tmp/
+
+# Ignorer les fichiers texte
+*.txt
