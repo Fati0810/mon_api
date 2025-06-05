@@ -1,0 +1,13 @@
+Array
+(
+    [country] => france
+    [password] => 123456
+    [password_confirm] => 123456
+    [birthdate] => 08/10/2000
+    [address] => Adresse
+    [city] => colombes
+    [last_name] => Diallo
+    [postal_code] => 92700
+    [first_name] => Fati
+    [email] => bonjour@email.com
+)
